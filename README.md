@@ -17,7 +17,7 @@ An interactive dashboard analyzing 14,000+ patient registration records from a F
 - A companion Power BI build guide is included in this repo for recreating the same dashboard as a `.pbix`
 
 ## Live demo
-[View the dashboard](#) <!-- replace # with your GitHub Pages link once it's live -->
+[View the dashboard](https://kanikasekar.github.io/Patient-Analytics-Dashboard/) <!-- replace # with your GitHub Pages link once it's live -->
 
 ## Skills demonstrated
 Power BI · Microsoft Excel · Data Cleaning · Data Transformation · Data Visualization · Data Analysis
