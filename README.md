@@ -9,9 +9,11 @@ The original Power BI file (.pbix) is included in this repo — download it and 
 ## Screenshots
 
 ### Dashboard Overview
+
 ![Dashboard Overview](screenshots/dashboard-overview.png)
 
 ### Charts & Visualizations
+
 ![Dashboard Charts](screenshots/dashboard-charts.png)
 
 ## Features
