@@ -6,6 +6,15 @@ An interactive dashboard analyzing 14,000+ patient registration records from a F
 
 The original Power BI file (.pbix) is included in this repo — download it and open in Power BI Desktop to explore the full report, including the data model and DAX measures.
 
+## Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](Screenshots/Dashboard-Overview.png)
+
+### Charts & Visualizations
+![Dashboard Charts](Screenshots/Dashboard-Charts.png)
+
+
 ## Features
 - **KPI cards** — total patients, departments, average age, busiest day
 - **Department filter** — click any department bar to filter the whole dashboard live
