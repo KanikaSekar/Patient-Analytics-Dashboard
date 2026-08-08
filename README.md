@@ -9,11 +9,10 @@ The original Power BI file (.pbix) is included in this repo — download it and 
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](Screenshots/Dashboard-Overview.png)
+![Dashboard Overview](screenshots/dashboard-overview.png)
 
 ### Charts & Visualizations
-![Dashboard Charts](Screenshots/Dashboard-Charts.png)
-
+![Dashboard Charts](screenshots/dashboard-charts.png)
 
 ## Features
 - **KPI cards** — total patients, departments, average age, busiest day
