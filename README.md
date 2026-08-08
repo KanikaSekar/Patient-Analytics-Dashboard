@@ -4,6 +4,8 @@
 
 An interactive dashboard analyzing 14,000+ patient registration records from a February 2026 outpatient camp, covering demographics, department-wise visits, and daily registration trends.
 
+The original Power BI file (.pbix) is included in this repo — download it and open in Power BI Desktop to explore the full report, including the data model and DAX measures.
+
 ## Features
 - **KPI cards** — total patients, departments, average age, busiest day
 - **Department filter** — click any department bar to filter the whole dashboard live
@@ -17,7 +19,6 @@ An interactive dashboard analyzing 14,000+ patient registration records from a F
 - A companion Power BI build guide is included in this repo for recreating the same dashboard as a `.pbix`
 
 ## Live demo
-[View the dashboard](https://kanikasekar.github.io/Patient-Analytics-Dashboard/) <!-- replace # with your GitHub Pages link once it's live -->
-
+[View the dashboard](https://kanikasekar.github.io/Patient-Analytics-Dashboard/) 
 ## Skills demonstrated
 Power BI · Microsoft Excel · Data Cleaning · Data Transformation · Data Visualization · Data Analysis
